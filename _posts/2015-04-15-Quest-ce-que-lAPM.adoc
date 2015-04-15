@@ -1,5 +1,6 @@
 = Qu'est ce que l'APM
 :hp-tags: Définition APM
+:hp-cover: http://blog.cobia.net/cobiacomm/wp-content/uploads/2014/03/DevOpsDays.png
 
 L’Application Performance Management (APM) permet de superviser les applications en environnements de production et de recettes qu’elles soient hébergées en interne ou en externe afin de diagnostiquer en temps réel les incidents ou ralentissements dans vos applications.
 
