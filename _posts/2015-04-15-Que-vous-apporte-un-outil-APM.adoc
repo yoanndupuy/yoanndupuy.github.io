@@ -1,5 +1,6 @@
 = Que vous apporte un outil APM ?
 :hp-tag: APM, DSI
+:hp-image: http://searchengineland.com/figz/wp-content/seloads/2014/07/google-logo-black-1920-800x450.jpg
 
 Un outil APM va vous permettre de dépassionner les débats interne… Finis les discussions interminables entre les métiers, la DSI, la production, la MOE ou la MOA… l’APM vous permet de savoir précisément d’où viennent vos incidents et donc de responsabiliser chaque acteur de votre équipe.
 
@@ -12,7 +13,10 @@ Maitriser vos budgets de réduction de dettes techniques,
 Permettre à vos équipes de concentrer leurs efforts de travail là où ils ont une véritable valeur ajoutée,
 Savoir comment se comportent vos utilisateurs sur vos applications,
 Améliorer votre fonction support pour apporter à vos clients une meilleure QoS.
+
 Permettre aux DSI de consacrer plus de budget à des projets favorisants la croissance et au soutien du changement de l’entreprise plutôt qu’à la maintenance du SI. (1)
+
+image:http://insolitebuzz.fr/wp-content/uploads/2014/10/test-all-the-things.jpg[Alt text]
 
 
 (1) Pendant ce temps, les DSI consacrent plus de la moitié (55%) de leur budget à la maintenance du système d’information. Seulement 22% est alloué à des projets favorisant la croissance de l’entreprise. Et ce sont 23% qui sont affectés au soutien du changement de l’entreprise.
