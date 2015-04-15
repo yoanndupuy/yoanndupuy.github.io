@@ -1,4 +1,5 @@
 = Qu'est ce que l'APM ?
+:hp-tags: Définition
 
 == APM ou Application performance management
 
