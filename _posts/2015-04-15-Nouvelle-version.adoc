@@ -54,22 +54,3 @@ Nous vous souhaitons une excellente utilisation de Nudge APM.
 
 Excellente journée,
 L'équipe Nudge.
-Devez-vous vous équiper d’un outil APM ?
-publié le 6 janv. 2015 09:00 par Matthieu Walckenaer   [ mis à jour : 4 mars 2015 07:08 ]
-A partir du moment où vos applications impactent négativement votre business, vous devez vous équiper d’une solution APM
-
-Si vous n’êtes pas encore équipés, la première chose à faire est d’évaluer vos besoins :
-
-Combien d’incidents et leurs degrés de criticités
-Quel est le Temps Moyen de Résolution (MTTR – moyenne du temps du premiers impact à la résolution)
-Quelles sont les évaluations et les métriques de l’impact sur les métiers (eg : perte de CA, perte de clients, perte de deals, …)
-Qui sont les collaborateurs impliqués dans la gestion des incidents, combien de temps passent ils sur les incidents et combien sont ils (en ETP) ?
-Quelle est la source par incident
-
-Faites l’inventaire des outils existants et déjà utilisés par les différentes équipes en interne.
-
-Quels outils et leurs catégories respectives ? (e.g : Monitoring Base de données, Monitoring Réseau, Monitoring Système, Robot simulation utilisateurs…)
-Combien de licences, sont elles à jours, sont elles sous maintenance ? Combien en SaaS ?
-A quoi servent ils ?
-Qu’est ce qu’ils ne font pas ?
-Si vous êtes déjà équipés d’un outil APM, pourquoi est il peu, mal ou sous utilisé ?
