@@ -1,3 +1,73 @@
-= titre du post 
+= Nouvelle version 
 
-test post from sylvain
+Chers utilisateurs,
+
+Après un début d'année en fanfare en ayant remporté le prix de l'innovation IT 2015 décerné par le CRIP, nous vous annonçons aujourd'hui la sortie de la version 2015.1 de Nudge APM.
+(Le CRiP est une association indépendante d'utilisateurs qui rassemble plus de 3 700 responsables d'Infrastructure et de Production IT représentant près de 300 grands comptes, entreprises et administrations)
+
+
+Profitez des évolutions fonctionnelles, graphiques et ergonomiques de Nudge APM qui facilitent encore plus les process de surveillance et de diagnostic de vos applications.
+
+Voici les principales évolutions de la version 2015.1 :
+
+
+Navigation temporelle :
+- Zoom à partir des graphs par drag/drop sur un intervalle de temps
+- Historiques des périodes consultées pendant la navigation
+- Accès rapide aux périodes de référence
+- Formulaire de choix de période plus pratique et plus complet
+
+
+
+
+Nouvel onglet Transactions :
+- Vision des transactions sur tous les tiers déjà présents dans la cartographie (JMS, WS, RMI, Memcached ...) en plus de ce qui était déjà fait pour SQL
+- Décomposition des temps de réponse sous forme de couches technologiques et détails des transactions sous jacentes
+- Amélioration de la présentation des erreurs sur les transactions
+- Diverses améliorations d'ergonomie telles que la possibilité de basculer en un clic d'une transaction amont à une transaction sous jacente
+À noter que l'ancien onglet SQL a été retiré. Les requêtes SQL sont maintenant consultables depuis l'onglet Transactions en cliquant sur le bouton SQL (de la même manière que pour les autres tiers en jeu dans l'application).
+
+
+
+
+API :
+- Des requêtes de type POST, PUT, DELETE font leur apparition et permettent de gérer les paramétrages de manière plus industrielle
+- Élargissement de la couverture de l'API aux informations liées aux évolutions de cette nouvelle version (notamment la notion de layer)
+
+
+
+
+De manière générale :
+- Améliorations du design des graphs, des tableaux et des formulaires
+- Possibilité de masquer le menu latéral à gauche de l'écran
+
+Et bien d'autres choses ...
+
+Dans les jours qui viennent, certaines améliorations seront apportées notamment sur la localisation, les nouveaux écrans n'étant pas encore totalement traduits.
+
+- Si vous avez questions techniques pour le support : helpdesk@nudge.org
+- Si vous avez des questions d'ordre général (nouvelle politique tarifaire, contrat, accompagnement - formation - configuration ou audits de performances) : contact@level5.fr
+
+Nous vous souhaitons une excellente utilisation de Nudge APM.
+
+Excellente journée,
+L'équipe Nudge.
+Devez-vous vous équiper d’un outil APM ?
+publié le 6 janv. 2015 09:00 par Matthieu Walckenaer   [ mis à jour : 4 mars 2015 07:08 ]
+A partir du moment où vos applications impactent négativement votre business, vous devez vous équiper d’une solution APM
+
+Si vous n’êtes pas encore équipés, la première chose à faire est d’évaluer vos besoins :
+
+Combien d’incidents et leurs degrés de criticités
+Quel est le Temps Moyen de Résolution (MTTR – moyenne du temps du premiers impact à la résolution)
+Quelles sont les évaluations et les métriques de l’impact sur les métiers (eg : perte de CA, perte de clients, perte de deals, …)
+Qui sont les collaborateurs impliqués dans la gestion des incidents, combien de temps passent ils sur les incidents et combien sont ils (en ETP) ?
+Quelle est la source par incident
+
+Faites l’inventaire des outils existants et déjà utilisés par les différentes équipes en interne.
+
+Quels outils et leurs catégories respectives ? (e.g : Monitoring Base de données, Monitoring Réseau, Monitoring Système, Robot simulation utilisateurs…)
+Combien de licences, sont elles à jours, sont elles sous maintenance ? Combien en SaaS ?
+A quoi servent ils ?
+Qu’est ce qu’ils ne font pas ?
+Si vous êtes déjà équipés d’un outil APM, pourquoi est il peu, mal ou sous utilisé ?
